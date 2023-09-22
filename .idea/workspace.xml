@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd4d63c2-ef82-46f7-9b69-6fc5cd637ad2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TOP11_20/Top12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TOP11_20/TOP13.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -53,24 +53,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3975" />
+          <entry key="java" value="4651" />
           <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3975" />
+          <entry key="JAVA" value="4651" />
           <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="13" />
+          <entry key="java" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="13" />
+          <entry key="JAVA" value="16" />
         </counts>
       </usages-collector>
     </session>
@@ -89,11 +89,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TOP11_20/Top12.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="59" column="5" selection-end-line="61" />
+            <state relative-caret-position="336">
+              <caret line="60" column="1" lean-forward="true" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/TOP11_20/TOP13.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -152,6 +164,7 @@
         <option value="$PROJECT_DIR$/src/TOP1_10/Top10.java" />
         <option value="$PROJECT_DIR$/src/TOP11_20/TOP11.java" />
         <option value="$PROJECT_DIR$/src/TOP11_20/Top12.java" />
+        <option value="$PROJECT_DIR$/src/TOP11_20/TOP13.java" />
       </list>
     </option>
   </component>
@@ -202,7 +215,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1695302390840" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1695346646539" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
@@ -218,9 +231,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Top12">
+  <component name="RunManager" selected="Application.TOP13">
     <configuration name="TOP11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TOP11_20.TOP11" />
+      <module name="leetcodetop100" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TOP11_20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TOP13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TOP11_20.TOP13" />
       <module name="leetcodetop100" />
       <extension name="coverage">
         <pattern>
@@ -258,19 +284,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Top8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TOP1_10.Top8" />
-      <module name="leetcodetop100" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TOP1_10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Top9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TOP1_10.Top9" />
       <module name="leetcodetop100" />
@@ -285,19 +298,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Top8" />
       <item itemvalue="Application.Top9" />
       <item itemvalue="Application.Top10" />
       <item itemvalue="Application.TOP11" />
       <item itemvalue="Application.Top12" />
+      <item itemvalue="Application.TOP13" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TOP13" />
         <item itemvalue="Application.Top12" />
         <item itemvalue="Application.TOP11" />
         <item itemvalue="Application.Top10" />
         <item itemvalue="Application.Top9" />
-        <item itemvalue="Application.Top8" />
       </list>
     </recent_temporary>
   </component>
@@ -314,7 +327,7 @@
       <workItem from="1694140152147" duration="2280000" />
       <workItem from="1694142624249" duration="20942000" />
       <workItem from="1694760326269" duration="6647000" />
-      <workItem from="1695288729603" duration="2142000" />
+      <workItem from="1695288729603" duration="6815000" />
     </task>
     <task id="LOCAL-00001" summary="11题解">
       <created>1694835069229</created>
@@ -327,7 +340,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32011000" />
+    <option name="totallyTimeSpent" value="36684000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1242" height="777" extended-state="6" />
@@ -342,8 +355,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329927" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329927" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -388,6 +401,12 @@
           <line>69</line>
           <properties />
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TOP11_20/TOP13.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -524,8 +543,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TOP11_20/Top12.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="59" column="5" selection-end-line="61" />
+        <state relative-caret-position="336">
+          <caret line="60" column="1" lean-forward="true" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-808">
+          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="652" selection-start-line="652" selection-end-line="652" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TOP11_20/TOP13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
